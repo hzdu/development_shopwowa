@@ -1,0 +1,27 @@
+# ignore folder
+wp-content/cache/
+wp-content/upgrade/
+wp-content/uploads/
+__MACOSX/
+.DS_Store
+
+# ignore log files and databases
+*.php
+*.icloud
+*.xml
+*.pdf
+*.txt
+*.log
+*.sql
+*.sqlite
+*.htaccess
+*.tar.gz
+*.zip
+*.rar
+*.txt
+*.py
+*.po
+*.mo
+*.md
+*.html
+*.htm
