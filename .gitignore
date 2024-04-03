@@ -1,7 +1,6 @@
 # ignore folder
 wp-content/cache/
 wp-content/upgrade/
-wp-content/uploads/
 __MACOSX/
 .DS_Store
 
